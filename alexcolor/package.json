@@ -1,0 +1,22 @@
+{
+  "name": "alexcolor",
+  "version": "1.0.1",
+  "description": "a library for add colors in your console",
+  "main": "/data/data/com.termux/files/home/pub/alexcolor/index.js",
+  "scripts": {
+    "test": "alex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zrexer/pub.git"
+  },
+  "keywords": [
+    "alexcolor"
+  ],
+  "author": "Host1let/Zrexer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zrexer/pub/issues"
+  },
+  "homepage": "https://github.com/Zrexer/pub#readme"
+}

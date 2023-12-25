@@ -1,0 +1,10 @@
+{
+    "name" : "alexcolor",
+    "version" : "1.0.0",
+    "description": "Give color to your console logger",
+    "main": "index.js",
+    "keywords": ["useful", "library", "alex", "alexcolor"],
+    "author": "Host1let <https://github.com/Zrexer || https://t.me/gnome_shell>",
+    "license": "MIT",
+    "dependencies": {}
+}
